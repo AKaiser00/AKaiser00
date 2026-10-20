@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hello, I'm Andrew Kaiser!
 
-<!--
-**AKaiser00/AKaiser00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me:
+Hiya! I'm a senior Computer Science major at Ithaca College, with a double minor in Business and Economics. I am looking for a full-time job when I graduate in Spring 2027, preferably a position with opportunities for growing into a management role. My interests include back-end development and database engineering/design! Currently working as an Endpoint Student Technician and Manager at Ithaca College, dealing with peripheral replacement and device management.
 
-Here are some ideas to get you started:
+# Proficient Languages:
+- Python
+- TypeScript
+- C
+- Java
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Major Concepts:
+- Relational Databases
+- Containerization
+- Version Control
+- Agile Workflows
+- Algorithms
+
+# Versed Tools:
+- Docker
+- Git
+- Flask
+- Deno
+- MS Azure
+- Excel
+
+# Working On:
+- Self-hosted portfolio website in order to display projects.
+- Interactive US presidential election data map, comparing election cycles.
+
+[Linkedin](https://www.linkedin.com/in/akaiser00/)
+# Thanks for visiting my profile!
